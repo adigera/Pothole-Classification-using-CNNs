@@ -5,9 +5,9 @@ This repository contains the main source code and helper programs for project fo
 
 I tried to comment on the main code as much as possible and helper programs have function definition at the start of the code. If you have any issues understanding it, don't hesitate to send an email or create an issue.
 
-Brief of the whole project, please refer to the *CS230_Project_Poster.pdf*.
-Explanation of the poster: 
-Summary of the project: *Final_Project_Report.pdf*
+Brief of the whole project, please refer to the *CS230_Project_Poster.pdf*.  
+Explanation of the poster:  
+Summary of the project: *Final_Project_Report.pdf*  
 
 ## References:
 
