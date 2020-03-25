@@ -7,7 +7,7 @@ I tried to comment on the main code as much as possible and helper programs have
 
 1. Summary of the project: *Final_Project_Report.pdf*  
 2. Brief of the whole project, please refer to the *CS230_Project_Poster.pdf*.   
-3. Poster video: https://youtu.be/ezVwvNbta8I . For higher quality video, kindly go to the google drive link: https://drive.google.com/open?id=1jD89YegILszd4mRsFAcILSShv4xsrP0j  
+3. Poster video: https://youtu.be/ezVwvNbta8I . For higher quality video, kindly go to the google drive link ( https://drive.google.com/open?id=1jD89YegILszd4mRsFAcILSShv4xsrP0j ) and download. For some reason.
 
 
 ## References:
