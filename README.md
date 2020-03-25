@@ -5,8 +5,10 @@ This repository contains the main source code and helper programs for project fo
 
 I tried to comment on the main code as much as possible and helper programs have function definition at the start of the code. If you have any issues understanding it, don't hesitate to send an email or create an issue.
 
-1. Brief of the whole project, please refer to the *CS230_Project_Poster.pdf*.   
-2. Summary of the project: *Final_Project_Report.pdf*  
+1. Summary of the project: *Final_Project_Report.pdf*  
+2. Brief of the whole project, please refer to the *CS230_Project_Poster.pdf*.   
+3. Poster video: https://youtu.be/ezVwvNbta8I . For higher quality video, kindly go to the google drive link: https://drive.google.com/open?id=1jD89YegILszd4mRsFAcILSShv4xsrP0j  
+
 
 ## References:
 
